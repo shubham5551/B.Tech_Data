@@ -1,4 +1,4 @@
-# Exploration with CAS-I1UC126B PR(Lab)
+# Exploration with CAS-I1UC126B PR (Lab)
 
 **What is SCILAB?** It is a software for **Numerical computations 2D/3D Plotting**. It is enhance the **numerical computational skills** of prospective engineers using open  source software/ computer algebra system(CAS). Many numerical problems can be expressed in a reduced number of code lines, as compared to similar solutions using traditional languages.
 
@@ -21,3 +21,24 @@
 **Role of commands:  clc  and  clear**
 **clc** is used to clear the console  though data will still remain stored in the memory
 **clear** removes data from memory
+
+###   Arithmetic Operations with scalars
+
+| Operation | SciLab Symbol | Example |
+| :---            |  :---:  |        :---: |
+| Addition        | +       |   -->3+4     |               
+| Substraction    | -       |   -->4-2     |
+| Multiplication  | *       |   -->3*4     |
+| Division        | /       |   -->3/4     |
+| Exponential     | ^       |   -->3^4     |
+
+###   Order or precedence
+|  Precedence  | Mathematical Operation |
+| :---         |     :---:              |
+| First        | Parenthesis            |
+| Second       | Exponential            |
+| Third        | Multiplications, Division (Equal Precedence) |
+| Fourth       | Addision, Substraction (Equal Precedence)    |
+
+
+
