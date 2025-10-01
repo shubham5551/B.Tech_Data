@@ -13,3 +13,11 @@
 * **The ‘prompt’  :        -->** The horizontal inbuilt arrow on console is called prompt in front of which we write instruction(s) called command line.
 * Role of ‘enter key’:  We get the output of our calculations done on console by pressing the enter key. It is also used to write new command line 
 * ‘ans=’ as the default variable:
+
+**Role of commas ( , )** We can write Multiple commands on same command line separated by commas ,. **eg**(--> 2,3,5)
+
+**Role of semicolon ( ; )** If a semicolon(;) is typed at the end of a command the output of the command is not displayed. **eg**(--> 2;3;5)
+
+**Role of commands:  clc  and  clear**
+**clc** is used to clear the console  though data will still remain stored in the memory
+**clear** removes data from memory
