@@ -19,6 +19,7 @@
 **Role of semicolon ( ; )** If a semicolon(;) is typed at the end of a command the output of the command is not displayed. **eg**(--> 2;3;5)
 
 **Role of commands:  clc  and  clear**
+
 **clc** is used to clear the console  though data will still remain stored in the memory
 **clear** removes data from memory
 
