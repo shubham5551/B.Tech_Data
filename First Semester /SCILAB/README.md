@@ -3,7 +3,7 @@
 
 
 **01.** Installation of the Scilab, Overview, Basic syntax, Mathematical Operators, Predefined constants, Built in functions. Complex numbers, Polynomials, Vectors. Write a SCI Lab code for Matrix. Handling these data structures using built in functions.
-* [Experiment 01 Folder](https://github.com/shubham5551/B.Tech_Data/blob/main/First%20Semester%20/SCILAB/Experiment%2001/README.md)
+[Experiment 01 Folder](https://github.com/shubham5551/B.Tech_Data/blob/main/First%20Semester%20/SCILAB/Experiment%2001/README.md)
 
 **02.** Programming -Functions - Handling .sci files. Write a SCI Lab code for Programming for Loops - Conditional statements.
 
