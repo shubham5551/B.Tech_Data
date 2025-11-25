@@ -1,53 +1,74 @@
-# 👋 Hi, I'm Shivam Tomer  
+# 🌟 C Programming Codes, Scilab Programs & Arduino Environmental Projects
 
-🎓 **B.Tech Student | Electronics & Computer Enthusiast**  
-💡 Passionate about **IoT, Embedded Systems, and Software Development**  
-🚀 Always learning new technologies and building real-world projects  
-
----
-
-## 🧠 About Me  
-
-- 🔭 I’m currently working on projects involving **IoT and microcontrollers (ESP32, sensors, etc.)**  
-- 🌱 I’m learning **C programming, Scilab, and semiconductor devices**  
-- 💬 Ask me about **C, Scilab, IoT hardware, and Arduino/ESP32 setups**  
-- ⚡ Fun fact: I love turning simple ideas into working circuits and codes.  
+Welcome to my repository!  
+This repo contains my work and learning projects from **C programming**, **Scilab**, and **Arduino-based environmental systems**.
 
 ---
 
-## 🛠️ Tech Stack  
+## 📁 Repository Contents
 
-**Languages:**  
-`C` · `Python` · `HTML` · `Scilab`  
-
-**Hardware & Tools:**  
-`ESP32` · `Arduino` · `DHT11` · `MQ135` · `LCD 16x2` · `Breadboard`  
-
-**Other Skills:**  
-`Git` · `GitHub` · `Microsoft PowerPoint` · `Technical Documentation`  
-
----
-
-## 🌍 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://in.linkedin.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+### 🟦 C Programming
+This section includes:
+- Basic C programs (loops, conditions, arrays, strings)
+- Beginner-friendly logical programs  
+- Pattern printing programs  
+- Mathematics-related programs  
+- First-semester B.Tech practice codes  
 
 ---
 
-## 📊 GitHub Stats  
+### 🟧 Scilab Programs
+Includes:
+- Numerical methods (Newton–Raphson, Bisection, Secant, etc.)
+- Matrix operations & plotting  
+- Lab assignments and solved examples  
+- Scripts with clear explanations and comments  
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamtomer&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamtomer&layout=compact&theme=tokyonight)
+---
+
+### 🟩 Arduino Environmental Projects
+Projects focused on environmental monitoring using Arduino:
+- Temperature & humidity sensors (DHT11/DHT22)
+- Air quality sensors (MQ series)
+- Soil moisture detection
+- Real-time data display on LCD / Serial Monitor
+- IoT-based extensions (coming soon)
 
 ---
 
-## ✨ Quote  
-
-> “Innovation is born when creativity meets curiosity.”
+## 🎯 Purpose of This Repository
+This repository is created to:
+- Document my learning journey  
+- Help beginners with simple and well-commented codes  
+- Share working examples for students  
+- Store college lab work in an organized way  
 
 ---
+
+## 🚀 How to Use
+1. Browse the folders (C, Scilab, Arduino).  
+2. Open any program to read and understand the logic.  
+3. Run the code in your preferred compiler or environment.  
+4. Modify, test, and learn more by experimenting.
+
+---
+
+## 🤝 Contributions
+Contributions, improvements, and suggestions are always welcome!  
+Feel free to:
+- Open an issue  
+- Submit a pull request  
+
+---
+
+## ⭐ Support
+If you find this helpful, please consider giving a **⭐ star** to the repository.  
+Your support motivates me to add more content regularly!
+
+---
+
+Thank you for visiting!
+
 
 ### Thanks for visiting my profile!  
 ⭐ Don’t forget to follow or check out my repositories for cool projects!
