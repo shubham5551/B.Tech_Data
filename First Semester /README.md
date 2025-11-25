@@ -68,7 +68,3 @@ Your support motivates me to add more content regularly!
 ---
 
 Thank you for visiting!
-
-
-### Thanks for visiting my profile!  
-⭐ Don’t forget to follow or check out my repositories for cool projects!
