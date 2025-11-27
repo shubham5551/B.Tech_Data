@@ -41,5 +41,17 @@
 | Third        | Multiplications, Division (Equal Precedence) |
 | Fourth       | Addision, Substraction (Equal Precedence)    |
 
+### Elementary Math Build-in functions
+|  Function Description              | Scilab Command | Example |
+| :---                               |     :---:              |             :---      |
+| Square root                        |         sqrt(x)        |     -->sqrt(81)       |
+|                                    |                        |       ans=            |
+|                                    |                        |          9            |
+| Real nth root of a real number x   |      nthroot(x,n)      |   -->nthroot(80,5)    |
+|                                    |                        |          ans=         |
+|                                    |                        |       2.4022489       |
+
+
+
 
 
