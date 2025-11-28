@@ -50,7 +50,15 @@
 | Real nth root of a real number x   |      nthroot(x,n)      |   -->nthroot(80,5)    |
 |                                    |                        |          ans=         |
 |                                    |                        |       2.4022489       |
-
+| Exponential(ex)                    |        exp(x)          |       -->exp(5)       |
+|                                    |                        |          ans=         |
+|                                    |                        |       148.41316       |
+|     Natural log(base e).ln         |        log(x)          |       -->log(1000)    |
+|                                    |                        |          ans=         |
+|                                    |                        |       6.9078          |
+|      Base 10 logarithm.log         |        log10(x)        |     -->log10(1000)    |
+|                                    |                        |          ans=         |
+|                                    |                        |       3.0000          |
 
 
 
