@@ -8,11 +8,19 @@
 
 **02.** Programming -Functions - Handling .sci files. Write a SCI Lab code for Programming for Loops - Conditional statements.
 
+[Experiment 02 Folder](https://github.com/shubham5551/B.Tech_Data/tree/main/First%20Semester%20/SCILAB/Experiment%2002)
+
 **03.** Find the roots of the given equations numerically using the Newton-Raphson Method.
+
+[Experiment 03 Folder](https://github.com/shubham5551/B.Tech_Data/tree/main/First%20Semester%20/SCILAB/Experiment%2003)
 
 **04.** Taylor series expansion of some functions.
 
+[Experiment 04 Folder](https://github.com/shubham5551/B.Tech_Data/tree/main/First%20Semester%20/SCILAB/Experiment%2004)
+
 **05.** Fourier series expansion of different wave forms and comparison with the original function
+
+[Experiment 05 Folder](https://github.com/shubham5551/B.Tech_Data/tree/main/First%20Semester%20/SCILAB/Experiment%2005)
 
 **06.** Solving System of Equations using SciLab and Eigen Values and Eigen Vectors of Matrices.
 
